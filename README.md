@@ -9,13 +9,13 @@ This project is a robust social media backend REST-API that empowers users to po
 1. Clone the repository:
 
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/Dev-Reddy/Postaway-II.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd [project_directory]
+   cd Postaway-II-main
    ```
 
 3. Install dependencies:
